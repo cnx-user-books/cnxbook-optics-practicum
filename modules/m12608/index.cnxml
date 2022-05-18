@@ -1,0 +1,44 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Lab One-Half</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>41b96925-8140-4531-bd53-36891d30c7b2</md:uuid>
+</metadata>
+<content>
+<para id="id8369272">LAB 1/2 The Silicon Photodiode</para>
+<para id="id8320574">In this lab, we will continue what we started
+in the first lab and look at the silicon photodiode detector. There
+are actually three of them available in the lab. A large one (3.6
+mm2 in area) and two smaller ones (0.8 mm2) The holders have a
+battery inside them, so we will be using the diodes in the
+photoconductive mode. There is a convenient switchable load
+resistor box, so you can chose among several different values for
+the diode load resistor.</para>
+<para id="id8271593">It is normal to use photodiodes to measure
+power density (watts/unit area) rather than in watts, because it is
+usually hard (and not very reliable) to focus the entire beam onto
+the diode surface.</para>
+<para id="id8368896">Find a fairly long focal length lens, and go
+beyond its focal point so that the laser beam is expanding. Find a
+location where the beam is about 1 cm in diameter. Then, use one of
+the apertures to pick out about the center half of the beam ( ~0.5
+cm diameter). As we shall see later in the semester, the beam is
+not entirely uniform in intensity over this area. It actually has a
+Gaussian profile. However, for our needs here we can assume that it
+is uniform. Using the power meter, measure the energy in the beam
+coming through the iris, and compute the energy density.</para>
+<para id="id7886581">Put the chopper in the beam, and using the
+'scope make measurements of the response of each of the photodiodes
+for various load resistor values. Use some of the attenuators so
+that you can plot diode response as a function of intensity. What
+kind of plot (linear, semi-log or log would be most appropriate
+here?) Do you observe any saturation of the diode response with the
+amount of power we have available from our laser ? For each of the
+load resistors, also make a note of the noise "floor", the
+magnitude of the noise signal you see with no laser light on the
+diode. (You can also see if it changes when you change the
+bandwidth setting of the scope.) From this, and your response
+curves, make an estimate of the NEP (noise equivalent power) for
+the diode detectors. Does this value depend on room ambient
+lighting conditions? What seems to be limiting amount of noise you
+detect?</para>
+</content>
+</document>
